@@ -1,3 +1,3 @@
 # hello this is louis
 
-![icon](./assets/icon.jpg)
+![icon](assets/icon.jpg)
